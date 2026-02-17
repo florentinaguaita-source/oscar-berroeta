@@ -275,23 +275,18 @@ nav {
 }
 
 .obra-detalles {
-    display: flex;
-    gap: 1rem;
     margin-bottom: 0.5rem;
-    flex-wrap: wrap;
 }
 
 .detalle {
     font-size: 0.9rem;
     color: var(--color-texto-claro);
-    background-color: #f0f0f0;
-    padding: 0.3rem 0.8rem;
-    border-radius: 20px;
+    margin-bottom: 0.2rem;
 }
 
 .obra-premio {
     font-size: 0.85rem;
-    color: var(--color-secundario);
+    color: var(--color-texto-claro);
     margin-top: 0.5rem;
     font-weight: 600;
 }
