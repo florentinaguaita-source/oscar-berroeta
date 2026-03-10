@@ -306,33 +306,6 @@ nav {
     margin-top: 0.3rem;
 }
 
-/* Contacto Section */
-.contacto {
-    padding: 100px 0;
-    background-color: var(--color-primario);
-    color: var(--color-blanco);
-    text-align: center;
-}
-
-.contacto h2 {
-    font-size: 2.5rem;
-    margin-bottom: 2rem;
-}
-
-.contacto-info p {
-    font-size: 1.1rem;
-    margin-bottom: 1rem;
-    opacity: 0.9;
-}
-
-.contacto-info .email,
-.contacto-info .telefono,
-.contacto-info .direccion {
-    font-size: 1.2rem;
-    font-weight: 600;
-    opacity: 1;
-}
-
 /* Footer */
 footer {
     background-color: #1a252f;
